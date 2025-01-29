@@ -1,6 +1,5 @@
 meta:
   nextgen: true
-
   
 notifications:
   commits:              commits@infra.apache.org
