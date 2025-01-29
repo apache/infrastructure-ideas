@@ -6,5 +6,5 @@ notifications:
   pullrequests:         commits@infra.apache.org
   issues:               commits@infra.apache.org
   jobs:                 commits@infra.apache.org
-  discussions:          commits@infra.apache.org
+  discussions:          users@infra.apache.org
 
