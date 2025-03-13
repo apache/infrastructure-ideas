@@ -1,6 +1,7 @@
-meta:
-  nextgen: true
-  
+github:
+  features:
+    discussions: true
+
 notifications:
   commits:              commits@infra.apache.org
   pullrequests:         commits@infra.apache.org
